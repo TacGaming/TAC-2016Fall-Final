@@ -1,0 +1,88 @@
+章节和页数除了特别说明意外都是8版，7版会特别说明。
+Part One
+chapter1
+	1.1软件定义
+		定义 / 软件硬件的比较
+		1.1.3 遗留软件特点 
+			p8: The only reasonable answer may be : ... & 下面四点
+	1.2软件变化实质
+		1.2.1 webapp特性： 网络密集性； 并发性； 负载不可预见； 数据驱动； 内容敏感； 美观性； ...
+
+chapter2 *
+	软件工程定义； 软件工程过程化。
+	figure2.1 + 解释 * 
+	2.2 软件过程 5点
+		2.2.1 
+		process framework 5点
+			framework activities
+				1.1 work tasks
+				1.2 work products
+				1.3 milestones
+				1.4 deliverables
+				1.5 QA checkpoints
+		2.2.2
+			umbrella activities 8点 p18
+
+
+
+		A generic process model figure3.1 关系要重点复习，最好结合案例 process framework activity action task
+
+chapter3 
+	3.1 通用过程模型
+	3.2 定义一个框架的活动 process flow
+	3.3 定义任务集
+	3.4 过程模式 例子p37
+		定义
+
+chapter4
+	4.1 瀑布 & V & 增量 & 演化（迭代？）[prototype spiral]
+
+chapter5 敏捷开发
+	极限编程： XP & SCRUM
+
+Part Two
+
+chapter8
+	8.1 什么是需求 需求工程的组成 7个步骤 例子 8.4家庭安全系统(以及后面的说明)
+	了解协商需求和确认需求
+
+chapter9
+	例子
+	如何设计类
+	表述类之间的关系
+	描述类状态（状态图）
+
+chapter10
+	10.1
+	10.2
+	10.3
+	...
+chapter11
+	DFD:数据流图
+	使用数据流图进行体系结构的映射 *
+	input transaction output
+	edition7 p136 p139 ~ p140
+
+chapter12
+	面向对象的设计概念
+	设计类 & 设计模型 ： 考法：给一个系统需求，根据需求用面向对象方法进行架构和模块的设计 用例 + 类图（元素+方法）+ 构建设计 
+	edition7 p163 ~ p169 数据设计 体系结构 接口 构建设计 （问答，设计题）
+	12.4
+chapter13 了解设计风格
+	edition7 DFD转换
+
+chapter14 构建级设计
+	构建级设计的内容： 步骤(edition7 p206~p210)[案例题给一个场景，如何做架构和构建设计]
+	界面设计（了解）
+chapter29 配置管理
+	edition7 fig22.1 fig22.2
+	edition8 fig29.1 fig29.2
+	中心存储？
+	软件配置中对象的标识，作用，原因
+	e7 p425 p426
+	变更控制
+
+选择（多选）
+问答
+作图（DFD）
+
